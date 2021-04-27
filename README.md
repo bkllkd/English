@@ -15,7 +15,7 @@ I will introduce Typora in [MarkdownEditor.md](./MarkdownEditor.md)
 #### link
 [画图样例](https://www.runoob.com/markdown/md-advance.html "菜鸟教程笔记")
 ![img1](./img1.jpg)
-![img2](https://bkl-images.oss-cn-beijing.aliyuncs.com/Typora/image-20210426141834554.png,"这是我的aliyun图床中的一张图片")
+![img2](https://bkl-images.oss-cn-beijing.aliyuncs.com/Typora/image-20210426141834554.png)
 
 #### code block
 ```c
